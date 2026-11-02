@@ -22,9 +22,12 @@
 12. **Конец**
 
 ### Блок-схема
-<img width="600" height="500" alt="Блок-схема" src="ССЫЛКА_НА_ТВОЮ_БЛОК_СХЕМУ" />
+
+<img width="282" height="932" alt="Диаграмма без названия drawio (6)" src="https://github.com/user-attachments/assets/c79c3eef-9291-442b-93fa-3acc0ffd916a" />
 
 ## 2. Реализация программы
+
+Исходный код программы: [Source.c](Source.c)
 
 ## 3. Результаты работы программы
 
